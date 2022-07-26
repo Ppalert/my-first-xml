@@ -10,4 +10,4 @@ just for learning Live12
 - Starts & ML
 
 ## My portfolios
-Please see my Google Data Studio Dashboard [here](https://www.google.com/)
+Please see my Google Data Studio Dashboard [here](https://github.com/Ppalert/my-first-xml/blob/main/Sales_Report_(25July2022).pdf)
